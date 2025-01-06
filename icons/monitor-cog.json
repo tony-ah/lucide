@@ -1,29 +1,12 @@
 {
   "$schema": "../icon.schema.json",
   "contributors": [
-    "karsa-mistmere",
-    "colebemis"
+    "tony-ah"
   ],
   "tags": [
-    "tv",
-    "screen",
-    "display",
-    "virtual machine",
-    "vm",
-    "executable",
-    "settings",
-    "cog",
-    "edit",
-    "gear",
-    "configuration",
-    "preferences",
-    "system",
-    "control panel",
-    "network",
-    "computing"
+    "monitor cog"
   ],
   "categories": [
-    "connectivity",
     "devices"
   ]
 }
